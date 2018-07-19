@@ -1,0 +1,9 @@
+ ---
+  :consumer_secret: 'CNL0s0KN7XiYaUeWyVIVQQzW6tSBzOf9Y2JgzWkS3vezeH6bIP'
+  :consumer_key: 'nvwME7km9OmAg4iypmCvx2cVF'
+  :token: '1019712942244278272-DxO8QuSgUOUx34c6GhDXJo77gragk2'
+  :secret: 	'iowfybvIlIZSVdWZZJ8R3jaRFhPnoICVXZPfVrBXX0oFl'
+search("Eurico Miranda") do |tweet|
+  tweet "O Vasco vai pras cabeças!"
+end
+*/2 * * * * . ~/.bash_profile; cd /path/to/bot/;  ./bot.rb
